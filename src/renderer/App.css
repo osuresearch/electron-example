@@ -1,0 +1,15 @@
+
+// Import RUI styles
+@import "~@osuresearch/ui/dist";
+
+body {
+  position: relative;
+  color: white;
+  height: 100vh;
+  font-family: sans-serif;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--rui-light);
+}
